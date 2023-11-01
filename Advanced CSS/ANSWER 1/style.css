@@ -1,0 +1,16 @@
+:root{
+    --perimarybtnbackColor: #00b7ff;
+    --secondarybtnbackcolor: #6c757d;
+}
+.primaryBtn{
+    background-color: var(--perimarybtnbackColor);
+}
+.secondaryBtn{
+    background-color: var(--secondarybtnbackcolor);
+}
+button{
+    border: none;
+    padding: 10px;
+    color: white;
+    font-size: 15px;
+}
